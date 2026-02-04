@@ -24,8 +24,6 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://libris.kb.se/tb4rwtc50wtltk7",
     "https://libris.kb.se/cv4j8tmh91zdwhtv",
     "https://libris.kb.se/2kccw4sd3rvg66h",
-    "https://libris.kb.se/l2sjvh6zjpbf6tp3",
-    "https://libris.kb.se/v6d2f50xsj25kkbb",
     "https://libris.kb.se/nz4hvk4nlvl4l3v9",
     "https://libris.kb.se/h1np9nqcf7j2bprs",
     "https://libris.kb.se/4mfb3n3g4fx8slj",
@@ -33,8 +31,13 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://libris.kb.se/q72db5q7nsbt2zb7",
     "https://libris.kb.se/s93q8z843p6kr88",
     "https://libris.kb.se/dzr37747bw78gbzg",
-    "",
-    "",
+    "https://libris.kb.se/1jb3q3rc33vhh5k",
+    "https://libris.kb.se/7qjgmn4k3t19vm3",
+    "https://libris.kb.se/btmh56cn33nmm6d",
+    "https://libris.kb.se/h0sh3ptt34vx3zg",
+    "https://libris.kb.se/zh9krrm91hwnv1p,
+    "https://libris.kb.se/0jbcl2pb2f9jg1h",
+    "https://libris.kb.se/3ld1g5mf15k1l2h",
   
   ];
 
