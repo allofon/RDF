@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://libris.kb.se/7qjgmn4k3t19vm3",
     "https://libris.kb.se/btmh56cn33nmm6d",
     "https://libris.kb.se/h0sh3ptt34vx3zg",
-    "https://libris.kb.se/zh9krrm91hwnv1p,
+    "https://libris.kb.se/zh9krrm91hwnv1p",
     "https://libris.kb.se/0jbcl2pb2f9jg1h",
     "https://libris.kb.se/3ld1g5mf15k1l2h",
   
