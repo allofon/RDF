@@ -1,5 +1,15 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+@media (max-width: 600px) {
+  body {
+    margin: 10px;
+  }
+  .answer {
+    width: 100%;
+  }
+}
+
+  
   // 🔹 Predikat (URI:er)
   const predicates = [
     "http://purl.org/dc/terms/title",
