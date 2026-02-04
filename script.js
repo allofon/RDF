@@ -28,6 +28,13 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://libris.kb.se/v6d2f50xsj25kkbb",
     "https://libris.kb.se/nz4hvk4nlvl4l3v9",
     "https://libris.kb.se/h1np9nqcf7j2bprs",
+    "https://libris.kb.se/4mfb3n3g4fx8slj",
+    "https://libris.kb.se/q82210t20crsdr6",
+    "https://libris.kb.se/q72db5q7nsbt2zb7",
+    "https://libris.kb.se/s93q8z843p6kr88",
+    "https://libris.kb.se/dzr37747bw78gbzg",
+    "",
+    "",
   
   ];
 
