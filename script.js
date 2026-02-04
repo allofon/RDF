@@ -2,11 +2,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 🔹 Predikat (URI:er)
   const predicates = [
-    "http://purl.org/dc/terms/title",
-    "http://purl.org/dc/terms/creator",
-    "http://purl.org/dc/terms/date",
-    "http://purl.org/dc/terms/publisher",
-    "http://purl.org/dc/terms/language",
+    "https://purl.org/dc/terms/title",
+    "https://purl.org/dc/terms/creator",
+    "https://purl.org/dc/terms/date",
+    "https://purl.org/dc/terms/publisher",
+    "https://purl.org/dc/terms/language",
     "http://RDVocab.info/Elements/rda/placeOfPublication"
   ];
 
